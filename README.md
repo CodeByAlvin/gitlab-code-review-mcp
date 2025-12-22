@@ -1,6 +1,4 @@
-# GitLab Code Review MCP 使用说明（简化版）
-
-本 README 只关注 **怎么用、能做什么、如何扩展 Review 规则**，适合第一次接触或日常使用。
+# GitLab Code Review MCP
 
 ---
 
@@ -139,7 +137,7 @@
 
 ---
 
-### 方式二：做成「可选 Review 模块」（进阶）
+### 方式二：做成「可选 Review 模块」
 
 你可以抽象成：
 
@@ -193,15 +191,6 @@ const reviewRules = {
 - 新增 Review 细节：
 
   - 99% 情况只需要改 Prompt
-
-如果你后面想：
-
-- 把 Review 规则模板化
-- 或做成公司级 Review 规范
-- 或接入 CI 做 Gate
-
-都可以在这个结构上自然演进。
-
 ---
 
 ## 九、MCP Tools 使用详解
