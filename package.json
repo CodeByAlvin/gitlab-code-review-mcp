@@ -1,7 +1,7 @@
 {
-  "name": "tsdown-starter",
+  "name": "gitlab code review mcp",
   "version": "0.0.0",
-  "description": "A starter for creating a TypeScript package.",
+  "description": "A tool for reviewing gitlab code",
   "type": "module",
   "license": "MIT",
   "homepage": "https://github.com/author/library#readme",
